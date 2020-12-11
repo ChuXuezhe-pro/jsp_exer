@@ -6,6 +6,7 @@ import java.util.Set;
 
 public class Exer {
 	public static void main(String[] args) {
+		//这是一个注释
 		Set set;
 		HashSet hset;
 		HashMap map;
