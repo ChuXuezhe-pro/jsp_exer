@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class Exer {
 	public static void main(String[] args) {
-		//ÕâÊÇÒ»¸ö×¢ÊÍ
+		//è¿™æ˜¯ç¬¬äºŒæ¬¡å†™çš„æ³¨é‡Š
 		Set set;
 		HashSet hset;
 		HashMap map;
